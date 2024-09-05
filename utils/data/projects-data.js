@@ -11,7 +11,7 @@ export const projectsData = [
         tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'TypeScript', 'MongoDB', 'Azure Blob', 'OpenAI API', 'Replicate AI', 'Cronjob', 'JWT'],
         role: 'Full Stack Developer',
         code: '',
-        demo: '',
+        liveLink: 'https://modern-background.vercel.app/',
         image: crefin,
     },
     {
@@ -21,7 +21,7 @@ export const projectsData = [
         tools: ['React','tailwindcss','Redux','React-Router','Firebase'],
         role: 'Frontend Stack Developer',
         code: '',
-        demo: '',
+        liveLink: 'https://food-websites-aaio.vercel.app/   ',
         image: travel,
     },
     {
@@ -31,7 +31,7 @@ export const projectsData = [
         tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'JavaScript', 'MongoDB', 'Gemini API', 'OpenAI API'],
         code: '',
         role: 'Full Stack Developer', 
-        demo: '',
+        liveLink:'https://try-bookai.vercel.app/',
         image: realEstate,
     },
     {
@@ -40,7 +40,7 @@ export const projectsData = [
         description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
         tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
         code: '',
-        demo: '',
+        liveLink: '',
         image: ayla,
         role: 'Full Stack Developer',
     }
