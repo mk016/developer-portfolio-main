@@ -9,9 +9,9 @@ export const personalData = {
   github: 'https://github.com/mk016',
   facebook: '',
   linkedIn: 'https://www.linkedin.com/in/mahendra-kumawat-59911a253/',
-  twitter: 'https://twitter.com/MK__0168',
+  twitter: 'https://x.com/Mk__0168',
   stackOverflow: '',
   leetcode: "",
-  devUsername: "mk016",
+  devUsername: "https://dev.to/mk016",
   resume: "https://drive.google.com/file/d/1pKqmLktZ9Y_P72L9Oo7eJ20127G0Zz-y/view?usp=sharing"
 }
