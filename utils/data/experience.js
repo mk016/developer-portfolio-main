@@ -14,7 +14,7 @@ export const experiences = [
   {
     id: 3,
     title: "Self Employed",
-    company: "Code and build something in everyday.",
+    company: "build Products and something in everyday.",
     duration: "(Jan 2023 - Present)"
   }
 ]
