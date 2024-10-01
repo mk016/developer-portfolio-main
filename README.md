@@ -1,3 +1,3 @@
 mahendrakumawat.xyz
 
-check out the my 
+Check out my personal Portfolio  => Mahendrakumawat.xyz
